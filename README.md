@@ -4,7 +4,7 @@ Cambio en el fichero README
 
 Clonamos el repositorio en la carpeta Casa
 
-git clone https://github.com/migangal4/Practica2
+git clone https://github.com/migangal4/ProyectoHTML 
 
 Modificamos Doc1 y hacemos commit
 
@@ -19,7 +19,7 @@ git push origin master
 
 Clonamos (justo despues de hacer el "clone" de carpeta Casa)
 
-git clone https://github.com/migangal4/Practica2
+git clone https://github.com/migangal4/ProyectoHTML 
 
 Actualizamos la carpeta con pull
 
